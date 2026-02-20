@@ -1,5 +1,7 @@
 variables
 templates/packer_cache
 templates/hyperv*
+templates/http/*
+templates/output*
 
 
